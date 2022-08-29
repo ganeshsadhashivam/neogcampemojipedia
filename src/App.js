@@ -20,14 +20,7 @@ const emojiDict = {
 var emojiArraykeys = Object.keys(emojiDict);
 
 export default function App() {
-  //var [userInput, setUserInput] = useState("");
-
-  //function setEventHandler(event) {
-  // console.log(event.target);
-  //  console.log(event.target.value);
-
-  // setUserInput(event.target.value);
-
+ 
   var [userInput, setUserInput] = useState("");
   function setEventHandler(event) {
     //console.log(event.target.value);
