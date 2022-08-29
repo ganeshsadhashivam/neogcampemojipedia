@@ -1,8 +1,6 @@
 import React, { useState } from "react";
 import "./styles.css";
 
-//var userName = "Ganesh";
-//var userName = prompt("enter username");
 const emojiDict = {
   "😀": "HappyFace",
   "🤣": "Rolling on the Floor Laughing",
